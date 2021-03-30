@@ -5,7 +5,7 @@ billiard==3.6.2.0
 celery==4.4.0
 certifi==2019.11.28
 chardet==3.0.4
-Django==3.0.3
+Django==3.0.12
 django-crispy-forms==1.8.1
 django-summernote==0.8.11.6
 environs==7.2.0
